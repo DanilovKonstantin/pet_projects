@@ -1,0 +1,3 @@
+|Project                       | Description          | Libraries                    | Сompleteness|
+| :------------------------------| :--------------------- |:---------------------------|:------------------|
+|Creating expedition diary. csv2diary.ipynb|Creating expedition diary from csv file with сreated by BaseCamp based on garmin navigator data. Distance from first point calculated based on coordinates. First points indicates by handlers according to sorting data.  Correct station name date and time reades from columns- desc. Name of diary reflect input data and time of diary cration.| Python, Pandas,  datetime, geopy.distance | development planned|
